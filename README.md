@@ -12,4 +12,5 @@
   |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[C++](9.%20Palindrome%20Number/main.cpp)
   |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](27.%20Remove%20Element/main.cpp)
   |3310|[Score of a String](https://leetcode.com/problems/score-of-a-string)|[C++](3110.%20Score%20of%20a%20String/main.cpp)
+  |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Python](70.%20Climbing%20Stairs/main.py)
 </div>
