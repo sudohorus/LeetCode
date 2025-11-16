@@ -14,4 +14,5 @@
   |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](27.%20Remove%20Element/main.cpp)
   |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Python](70.%20Climbing%20Stairs/main.py)
   |3310|[Score of a String](https://leetcode.com/problems/score-of-a-string)|[C++](3110.%20Score%20of%20a%20String/main.cpp)
+  |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](26.%20Remove%20Duplicates%20from%20Sorted%20Array/main.cpp)
 </div>
